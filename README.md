@@ -19,7 +19,7 @@ Esse projeto web te transporta para o universo de VA-11 HALL-A, onde você pode 
 
 **Como usar este projeto:**
 
-1.  **Acesse o projeto através do Vercel:** (link em breve!)
+1.  **Acesse o projeto através do Vercel:** https://cardapio-va11halla.vercel.app/
 
 **Observações - Projeto em Desenvolvimento:**
 
