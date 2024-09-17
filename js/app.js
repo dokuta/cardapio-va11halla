@@ -43,6 +43,7 @@ function pesquisar() {
                 <h2>
                     ${index.nome}
                 </h2>
+                <img src="${index.imagem}">
                 <p class="descricao-meta">
                     ${index.descricao} <br>
                     <strong>Sabor:</strong> ${index.sabor} <br>

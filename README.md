@@ -23,7 +23,7 @@ Esse projeto web te transporta para o universo de VA-11 HALL-A, onde você pode 
 
 **Observações - Projeto em Desenvolvimento:**
 
--   **Imagens:** A degustação começa com os olhos, não é verdade? Em breve teremos as imagens de cada drink sendo apresentadas na pesquisa também.
+~~-   **Imagens:** A degustação começa com os olhos, não é verdade? Em breve teremos as imagens de cada drink sendo apresentadas na pesquisa também.~~ **Check! [✅]**
 -   **Responsividade:** A página não se comporta do modo esperado em dispositivos móveis, e o problema será investigado.
 
 **Créditos:**
@@ -31,5 +31,3 @@ Esse projeto web te transporta para o universo de VA-11 HALL-A, onde você pode 
 -   **VA-11 HALL-A: Cyberpunk Bartender Action:** Criado por [Sukeban Games](https://sukeban.moe/). Distribuído por [Ysbryd Games](https://www.ysbryd.net/).
 -   **Site oficial do jogo:** https://waifubartending.com/
 -   **Wiki do jogo:** https://va11halla.fandom.com/wiki/VA-11_Hall-A_Wiki
-
-**Vamos brindar a mais um projeto incrível! 🌃🥂**

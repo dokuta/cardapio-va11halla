@@ -1,6 +1,6 @@
 const drinks = [{
         nome: "Cerveja",
-        // imagem: "../img/drinks/beer.png",
+        imagem: "./img/drinks/beer.png",
         descricao: "A cerveja produzida de forma tradicional se tornou um luxo, mas esta está bem próxima da verdadeira...",
         sabor: "Borbulhante",
         tipo: "Clássica",
@@ -10,7 +10,7 @@ const drinks = [{
     },
     {
         nome: "Sugar Rush",
-        // imagem: "../img/drinks/sugar-rush.png",
+        imagem: "./img/drinks/sugar-rush.png",
         descricao: "Doce, leve e frutado. O mais feminino possível.",
         sabor: "Doce",
         tipo: "Feminina",
@@ -20,7 +20,7 @@ const drinks = [{
     },
     {
         nome: "Pile Driver",
-        // imagem: "../img/drinks/pile-driver.png",
+        imagem: "./img/drinks/pile-driver.png",
         descricao: "Não queima tanto na língua, mas é melhor você não estar com dor de garganta ao bebê-lo...",
         sabor: "Amargo",
         tipo: "Masculina",
@@ -30,7 +30,7 @@ const drinks = [{
     },
     {
         nome: "Piano Man",
-        // imagem: "../img/drinks/piano-man.png",
+        imagem: "./img/drinks/piano-man.png",
         descricao: "Esta bebida não representa as opiniões do Sindicato dos Pianistas de Bar ou de seus associados.",
         sabor: "Azedo",
         tipo: "Promo",
@@ -40,7 +40,7 @@ const drinks = [{
     },
     {
         nome: "Piano Woman",
-        // imagem: "../img/drinks/piano-woman.png",
+        imagem: "./img/drinks/piano-woman.png",
         descricao: "Originalmente se chamava Pretty Woman, mas muitas pessoas reclamaram que deveria haver uma Piano Woman já que tem um Piano Man.",
         sabor: "Doce",
         tipo: "Promo",
@@ -50,7 +50,7 @@ const drinks = [{
     },
     {
         nome: "Fringe Weaver",
-        // imagem: "../img/drinks/fringe-weaver.png",
+        imagem: "./img/drinks/fringe-weaver.png",
         descricao: "É como beber álcool etílico com uma colher de açúcar.",
         sabor: "Borbulhante",
         tipo: "Elegante",
@@ -60,7 +60,7 @@ const drinks = [{
     },
     {
         nome: "Fluffy Dream",
-        // imagem: "../img/drinks/fluffy-dream.png",
+        imagem: "./img/drinks/fluffy-dream.png",
         descricao: "Alguns desse aqui farão sua língua ficar aveludada. Muitos deles e você dormirá profundamente.",
         sabor: "Azedo",
         tipo: "Feminina",
